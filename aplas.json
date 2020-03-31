@@ -1,21 +1,25 @@
 {
-  "id": "herding_lambda",
-  "name": "Herding Lambda",
-  "categoryId": "accounting",
-  "description": "Object-based executive support",
-  "investment_24m": "485",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "86",
-  "status_color": "#FFFF00",
-  "type": "OffShelf",
-  "support_cost": "129",
-  "deployment_date": "26/10/12",
-  "end_of_maintenance": "30/8/17",
-  "department": "Sales",
-  "status": "Sunsetting",
-  "end_of_life": "5/8/18",
-  "sme_name": "Lenci Bank",
-  "months_to_renew_support": "26",
-  "sme_email": "Lenci.Bank@memento.net.au",
-  "investment_number": "270"
+  "applications": [
+    {
+      "id": "herding_lambda",
+      "name": "Herding Lambda",
+      "categoryId": "accounting",
+      "description": "Object-based executive support",
+      "investment_24m": "485",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "86",
+      "status_color": "#FFFF00",
+      "type": "OffShelf",
+      "support_cost": "129",
+      "deployment_date": "26/10/12",
+      "end_of_maintenance": "30/8/17",
+      "department": "Sales",
+      "status": "Sunsetting",
+      "end_of_life": "5/8/18",
+      "sme_name": "Lenci Bank",
+      "months_to_renew_support": "26",
+      "sme_email": "Lenci.Bank@memento.net.au",
+      "investment_number": "270"
+    }
+  ]
 }
