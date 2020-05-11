@@ -9,24 +9,23 @@
       "description": "Object-based executive support",
       "categoryId": "accounting",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "86",
       "status_color": "#FFFF00",
       "department": "Sales",
       "hostedtype": "OnPremise",
       "deployment_date": "26/10/12",
-      "investment_number": "270",
+      "investment_number": 270,
       "type": "OffShelf",
       "sme_email": "Lenci.Bank@memento.net.au",
       "investment_24m": "485",
       "sme_name": "Lenci Bank",
       "support_cost": "129",
       "end_of_life": "5/8/18",
-      "months_to_renew_support": "26",
+      "months_to_renew_support": 26,
       "end_of_maintenance": "30/8/17",
       "integrations": [
         {
-          "assetId": "int-492",
+          "id": "int-492",
           "name": "INT-492",
           "shortName": null,
           "version": "7.99",
@@ -34,7 +33,6 @@
           "payload": "Supplier Name / Pick Location",
           "targetApplicationId": "cookley",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "decom_date": "1/1/18",
           "status_color": "#00FFFF",
@@ -48,7 +46,7 @@
           "golive_date": "6/2/02"
         },
         {
-          "assetId": "int-005",
+          "id": "int-005",
           "name": "INT-005",
           "shortName": null,
           "version": "1.43",
@@ -56,7 +54,6 @@
           "payload": "Item Barcode (XREF) Master Data",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -69,7 +66,7 @@
           "golive_date": "10/12/05"
         },
         {
-          "assetId": "int-466",
+          "id": "int-466",
           "name": "INT-466",
           "shortName": null,
           "version": "4.3.1",
@@ -77,7 +74,6 @@
           "payload": "Financial Closing Stock Company Unknown Shrink",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Maridel Finlan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -90,7 +86,7 @@
           "golive_date": "3/5/15"
         },
         {
-          "assetId": "int-247",
+          "id": "int-247",
           "name": "INT-247",
           "shortName": null,
           "version": "5.8",
@@ -98,7 +94,6 @@
           "payload": "Colour",
           "targetApplicationId": "cookley",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -111,7 +106,7 @@
           "golive_date": "6/7/02"
         },
         {
-          "assetId": "int-017",
+          "id": "int-017",
           "name": "INT-017",
           "shortName": null,
           "version": "0.7.0",
@@ -119,7 +114,6 @@
           "payload": "Location Attribute",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "decom_date": "28/3/16",
           "status_color": "#FF0000",
@@ -133,7 +127,7 @@
           "golive_date": "9/10/07"
         },
         {
-          "assetId": "int-103",
+          "id": "int-103",
           "name": "INT-103",
           "shortName": null,
           "version": "9.3.9",
@@ -141,7 +135,6 @@
           "payload": "Product Hierarchy Extract",
           "targetApplicationId": "cookley",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Alfy Greader",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
